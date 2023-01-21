@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Product-Recommendation-System&style=plastic&label=Repository+Views)
 <h1 align="center"> Product-Recommendation-System </h1>
 <p align="center">:sparkles: :womans_clothes: :shirt: :dress: :sparkles:</p>
 <p align="center">Recommending similar product based on text features.</p>
